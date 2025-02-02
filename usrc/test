@@ -1,0 +1,10 @@
+ls
+mv toto.txt titi.txt
+cat titi.txt 3
+get titi.txt file.txt 
+mv titi.txt great.txt
+ls
+put file.txt 
+cat file.txt 2
+rm file.txt 
+rm great.txt
